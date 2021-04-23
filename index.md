@@ -4,5 +4,5 @@ Self-Assess
 
 
 ### Navigation
-[Enhancement One](./enhancement_one.md)
-[Enhancement Two](./enhancement_two.md)
+[Enhancement One](./pages/enhancement_one.md)
+[Enhancement Two](./pages/enhancement_two.md)
