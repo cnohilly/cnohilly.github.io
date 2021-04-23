@@ -10,3 +10,8 @@ The enhancements to be made to this artifact were to rewrite the program from C+
 ### Outcomes
 I chose this artifact because I felt it was a chance to show proficiency in a different language, show problem solving skills, and show an ability to learn new things when necessary. Going into the enhancement, I had some prior knowledge using SQL, but had to do further research to get a database using MySQL set up and learn to use JDBC to interface between the program and the database. I believe with the enhancements I've made that I have achieved the goals and objectives that I was meant to. I did not find that there were a large number of challenges to accomplish this enhancement and it primarily required me to become reacquainted with both Java and SQL and learn a few new things in Java to create the user interface that I wanted. 
 
+### Enhancement One Files
+[Github containing C++ and Java Versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_One_Files)
+
+### Navigation
+[Professional Self-Assessment](./index.md)
