@@ -5,4 +5,4 @@ Self-Assess
 
 **Navigation**
 
-[Enhancement One](cnohilly.github.io/enhancement_one.md)
+[Enhancement One](enhancement_one.md)
