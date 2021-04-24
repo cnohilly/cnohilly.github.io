@@ -10,3 +10,10 @@ For this second category, the artifact that I am going to be using will by my fi
 For the third category, I will be using the same artifact as mentioned for Category One, the personal project written to track Win/Loss stats for a game called Fall Guys. The category for this section will be databases. The enhancement plan for this artifact, in addition to the rewriting the project in Java as previously mentioned, will involve creating an interface between the project in Java and a database created with MySQL. This interface will be used to store the relevant stats and data in the database, and the Java program will be used to update and read that data. The current iteration of the project in C++ tracks stats by writing and reading a simple text file, so this will be a demonstration of skills with databases by creating this interface and utilizing the database for tracking the stats instead.
 
 ### Code Review
+
+
+### Navigation
+  - [Professional Self-Assessment](../index.md)
+  - [Enhancement One](./pages/enhancement_one.md) 
+  - [Enhancement Two](./pages/enhancement_two.md)
+  - [Enhancement Three](./pages/enhancement_three.md)
