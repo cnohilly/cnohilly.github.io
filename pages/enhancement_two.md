@@ -16,7 +16,7 @@ I chose this artifact because it was an opportunity to show that I can be presen
 [Github containing Original and Enhanced file versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_Two_Files)
 
 ### Navigation
-- [Refinement Plan and Code Review](./refinement_codereview.md)
-- [Professional Self-Assessment](../index.md)
-- [Enhancement One](./enhancement_one.md)
-- [Enhancement Three](./enhancement_three.md)
+  - [Refinement Plan and Code Review](./refinement_codereview.md)
+  - [Professional Self-Assessment](../index.md)
+  - [Enhancement One](./enhancement_one.md)
+  - [Enhancement Three](./enhancement_three.md)
