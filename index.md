@@ -10,7 +10,7 @@ As I had begun to mention in the previous section, I chose the artifacts used fo
 
 
 ### Navigation
-  - [Refinement Plan and Code Review](./refinement_codereview.md)
+  - [Refinement Plan and Code Review](./pages/refinement_codereview.md)
   - [Enhancement One](./pages/enhancement_one.md) 
   - [Enhancement Two](./pages/enhancement_two.md)
   - [Enhancement Three](./pages/enhancement_three.md)
