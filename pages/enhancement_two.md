@@ -18,3 +18,4 @@ I chose this artifact because it was an opportunity to show that I can be presen
 ### Navigation
 - [Professional Self-Assessment](../index.md)
 - [Enhancement One](./enhancement_one.md)
+- [Enhancement Three](./enhancement_three.md)
