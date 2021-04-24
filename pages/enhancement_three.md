@@ -14,7 +14,7 @@ This enhancement of the artifact me allowed me to learn a completely new topic w
 [Github containing C++ and Java Versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_Three_Files)
 
 ### Navigation
-- [Refinement Plan and Code Review](./refinement_codereview.md)
-- [Professional Self-Assessment](../index.md)
-- [Enhancement One](./enhancement_one.md)
-- [Enhancement Two](./enhancement_two.md)
+  - [Refinement Plan and Code Review](./refinement_codereview.md)
+  - [Professional Self-Assessment](../index.md)
+  - [Enhancement One](./enhancement_one.md)
+  - [Enhancement Two](./enhancement_two.md)
