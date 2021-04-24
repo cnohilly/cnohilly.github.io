@@ -10,7 +10,7 @@ The enhancement plan briefly mentioned above is to create functions and better u
 
 
 ### Outcomes
-I chose this artifact because I felt it was a chance to show proficiency in a different language, show problem solving skills, and show an ability to learn new things when necessary. Going into the enhancement, I had some prior knowledge using SQL, but had to do further research to get a database using MySQL set up and learn to use JDBC to interface between the program and the database. I believe with the enhancements I've made that I have achieved the goals and objectives that I was meant to. I did not find that there were a large number of challenges to accomplish this enhancement and it primarily required me to become reacquainted with both Java and SQL and learn a few new things in Java to create the user interface that I wanted. 
+I chose this artifact because it was an opportunity to show that I can be presented with a problem, in this case a large meant of repetitive code or actions that would be difficult to edit or change and find a solution to make things much easier to work with. I was also able to show a good use of functions and data structures like arrays and vectors to organize and simplify things. I achieved the goals for this enhancement and found the solution to simplify my code without a large number of challenges. The primary challenge I found was that I tried for a large portion of time to continue using arrays but ultimately used vectors instead for their flexibility. 
 
 ### Enhancement One Files
 [Github containing C++ and Java Versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_One_Files)
