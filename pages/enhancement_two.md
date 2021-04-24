@@ -14,5 +14,5 @@ I chose this artifact because I felt it was a chance to show proficiency in a di
 [Github containing C++ and Java Versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_One_Files)
 
 ### Navigation
-- [Professional Self-Assessment](./index.md)
+- [Professional Self-Assessment](../index.md)
 - [Enhancement One](./enhancement_one.md)
