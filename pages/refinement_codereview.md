@@ -14,6 +14,6 @@ For the third category, I will be using the same artifact as mentioned for Categ
 
 ### Navigation
   - [Professional Self-Assessment](../index.md)
-  - [Enhancement One](./pages/enhancement_one.md) 
-  - [Enhancement Two](./pages/enhancement_two.md)
-  - [Enhancement Three](./pages/enhancement_three.md)
+  - [Enhancement One](./enhancement_one.md) 
+  - [Enhancement Two](./enhancement_two.md)
+  - [Enhancement Three](./enhancement_three.md)
