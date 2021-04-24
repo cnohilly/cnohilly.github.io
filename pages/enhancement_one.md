@@ -14,7 +14,7 @@ I chose this artifact because I felt it was a chance to show proficiency in a di
 [Github containing C++ and Java Versions](https://github.com/cnohilly/cnohilly.github.io/tree/main/Enhancement_One_Files)
 
 ### Navigation
-- [Refinement Plan and Code Review](./refinement_codereview.md)
-- [Professional Self-Assessment](../index.md)
-- [Enhancement Two](./enhancement_two.md)
-- [Enhancement Three](./enhancement_three.md)
+  - [Refinement Plan and Code Review](./refinement_codereview.md)
+  - [Professional Self-Assessment](../index.md)
+  - [Enhancement Two](./enhancement_two.md)
+  - [Enhancement Three](./enhancement_three.md)
