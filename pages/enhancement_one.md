@@ -16,3 +16,4 @@ I chose this artifact because I felt it was a chance to show proficiency in a di
 ### Navigation
 - [Professional Self-Assessment](../index.md)
 - [Enhancement Two](./enhancement_two.md)
+- [Enhancement Three](./enhancement_three.md)
