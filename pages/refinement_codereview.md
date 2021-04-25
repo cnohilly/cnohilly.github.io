@@ -12,7 +12,7 @@ For the third category, I will be using the same artifact as mentioned for Categ
 ### Code Review
 This is my code review for my two artifacts used for the enhancements displayed in the portfolio. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2N7yqD749hU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
+<iframe width="560" height="315" src="https://youtu.be/2N7yqD749hU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 ### Navigation
   - [Professional Self-Assessment](../index.md)
